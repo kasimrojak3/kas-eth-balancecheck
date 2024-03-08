@@ -1,0 +1,27 @@
+{
+  "name": "kas-eth-balancecheck",
+  "version": "1.0.0",
+  "description": "A CLI tool to check the balance of an Ethereum wallet.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kasimrojak3/kas-eth-balancecheck"
+    },
+  "homepage": "https://twitter.com/clinton_mizelle",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "chalk": "^4.1.0",
+    "kas-eth-balancecheck": "^1.0.0"
+  },
+  "author": "Kas",
+  "license": "ISC"
+}
+
+
+
+
+
